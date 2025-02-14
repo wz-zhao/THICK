@@ -13,6 +13,20 @@ Code：n4iL
 
 Files:
 
-Crack-Filter dataset splitting:
+Crack-Filter dataset splitting(20000 images):
+
+crack: 8000:1000:1000
+
+pesudo-crack:8000:1000:1000
+
+Crack-Segmentation dataset splitting(13,271 images):
+
+10617:1327:1327
+
+Bridge-Crack-Classification dataset(15000 images):
+
+Linear crack:Block crack:Alligator crack = 5000:5000:5000
+
+The training and model code will be publicly available upon acceptance of the paper
 
 If you find our dataset is useful, please cite above papers.
