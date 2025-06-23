@@ -1,4 +1,4 @@
-# database for the paper "A three-stage intelligent crack detection method for concrete bridges based on deep neural networks"
+# Datasets for the paper "A three-stage intelligent crack detection method for concrete bridges based on deep neural networks"
 ===========================================================================
 
 Wenzhuo Zhao, Ke Li, Gang Liu, Bin Chen, Mingyu Fan, Shuohui Yin
